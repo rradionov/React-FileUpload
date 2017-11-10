@@ -19,7 +19,7 @@ const IEFormGroup = [true]
 let xhrList = []
 let currentXHRID = 0
 
-const PT = React.PropTypes || require('prop-types');
+const PT = require('prop-types');
 const createReactClass = require('create-react-class');
 const FileUpload = createReactClass({
 
