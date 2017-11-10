@@ -20,8 +20,8 @@ let xhrList = []
 let currentXHRID = 0
 
 const PT = React.PropTypes || require('prop-types');
-
-const FileUpload = React.createClass({
+const createReactClass = require('create-react-class');
+const FileUpload = createReactClass({
 
     /*类型验证*/
     propTypes: {
