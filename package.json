@@ -20,11 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SoAanyip/React-FileUpload.git"
+    "url": "https://github.com/rradionov/React-FileUpload.git"
   },
   "author": "Cheesu@Tencent",
   "license": "MIT",
   "dependencies": {
+    "create-react-class": "^15.6.2",
     "react": "^16.0.0"
   },
   "devDependencies": {
@@ -37,6 +38,6 @@
     "webpack": "^1.12.14"
   },
   "bugs": {
-    "url": "https://github.com/SoAanyip/React-FileUpload/issues"
+    "url": "https://github.com/rradionov/React-FileUpload/issues"
   }
 }
