@@ -1,7 +1,5 @@
 # React-FileUpload #
 
-![npm version](https://badge.fury.io/js/react-fileupload.svg)
-
 ## Index ##
 
 
